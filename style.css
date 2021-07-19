@@ -8,7 +8,10 @@ h1{
 #orange{
     color: orange;
 }
-section{
+.center{
+    text-align: center;
+}
+.section-flexi{
     display: flex;
     margin-bottom: 100px;
 }
@@ -20,6 +23,16 @@ section{
 .half-width img{
     width: 50%;
 }
+
+.fifty-fifty img {
+    width: 100%;
+    
+}
+.fifty-fifty{
+    padding: 2%;
+    margin: 2%;
+}
+
 
 
 .link-button{
