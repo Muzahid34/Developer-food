@@ -20,6 +20,14 @@ h1{
     padding: 5%;
     
 }
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 50px;
+    color: white;
+    font-weight: 800;
+}
 .half-width img{
     width: 50%;
 }
@@ -31,17 +39,13 @@ h1{
 .fifty-fifty{
     padding: 2%;
     margin: 2%;
-}
+    box-shadow: 20px 20px 50px gray;
+    
 
 
 
-.link-button{
-    text-decoration: none;
-    background-image: linear-gradient(orange,tomato);
-    padding: 10px 40px;
-    border-radius: 50px;
-    color: white;
-    font-weight: 800;
+
+    
     
 }
 .About-me{
