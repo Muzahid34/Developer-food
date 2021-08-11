@@ -1,0 +1,60 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 60px;
+}
+#orange{
+    color: orange;
+}
+.center{
+    text-align: center;
+}
+.section-flexi{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 60%;
+    padding: 5%;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 50px;
+    color: white;
+    font-weight: 800;
+}
+.half-width img{
+    width: 50%;
+}
+
+.fifty-fifty img {
+    width: 100%;
+    
+}
+.fifty-fifty{
+    padding: 2%;
+    margin: 2%;
+    box-shadow: 20px 20px 50px gray;
+    border-radius: 20px;
+    
+
+
+
+
+    
+    
+}
+.About-me{
+    
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+}
